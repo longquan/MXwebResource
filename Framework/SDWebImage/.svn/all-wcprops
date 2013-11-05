@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage
+END
+MKAnnotationView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/MKAnnotationView+WebCache.h
+END
+AsyncImageHandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/AsyncImageHandle.h
+END
+AsyncImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/AsyncImageView.m
+END
+SDWebImageDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/SDWebImageDecoder.h
+END
+MKAnnotationView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/MKAnnotationView+WebCache.m
+END
+AsyncImageHandle.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/AsyncImageHandle.m
+END
+UIImageView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/UIImageView+WebCache.h
+END
+SDWebImageDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/SDWebImageDownloader.h
+END
+SDWebImageDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/SDWebImageDecoder.m
+END
+SDWebImageDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/SDWebImageDownloader.m
+END
+UIImageView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/UIImageView+WebCache.m
+END
+SDWebImageDownloaderDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/SDWebImageDownloaderDelegate.h
+END
+UIButton+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/UIButton+WebCache.h
+END
+SDWebImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/SDWebImageManager.h
+END
+SDImageCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/SDImageCache.h
+END
+UIButton+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/UIButton+WebCache.m
+END
+SDWebImageManagerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/SDWebImageManagerDelegate.h
+END
+SDWebImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/SDWebImageManager.m
+END
+SDWebImageCompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/SDWebImageCompat.h
+END
+SDWebImagePrefetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/SDWebImagePrefetcher.h
+END
+SDImageCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/SDImageCache.m
+END
+SDImageCacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/SDImageCacheDelegate.h
+END
+SDWebImagePrefetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/SDWebImagePrefetcher.m
+END
+AsyncImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/SDWebImage/AsyncImageView.h
+END

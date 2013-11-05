@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/wantuclient/!svn/ver/1002/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASIDataCompressor.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASIDataDecompressor.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASIDownloadCache.m
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASIProgressDelegate.h
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASIFormDataRequest.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/wantuclient/!svn/ver/1002/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASIDataCompressor.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/wantuclient/!svn/ver/1002/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASIDataDecompressor.m
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASIFormDataRequest.m
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASICacheDelegate.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASIHTTPRequest.h
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASIInputStream.h
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASIHTTPRequest.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASIAuthenticationDialog.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASIInputStream.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASINetworkQueue.h
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASIAuthenticationDialog.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASINetworkQueue.m
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/wantuclient/!svn/ver/998/trunk/WantuClient/WantuClient/Frameworks/ASIHTTPRequest/ASIDownloadCache.h
+END
